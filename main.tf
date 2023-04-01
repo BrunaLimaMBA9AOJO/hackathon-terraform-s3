@@ -1,4 +1,4 @@
 resource "aws_s3_bucket" "bucket" {
-  bucket = "hackaton-frontend-grupo-b"
+  bucket = "bucket-frontend-grupo-b"
   acl    = "private"
 }
